@@ -1,5 +1,4 @@
 export class Objet {
-    description: string[];
     isBook: boolean;
     isLent: boolean;
   
